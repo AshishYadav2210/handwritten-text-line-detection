@@ -2,7 +2,7 @@
 
 What does this project do?
 
-It is a python tool to detect the text lines in an image of a hand-written document.
+-It is a python tool to detect the text lines in an image of a hand-written document.
 
 Why is this project useful?
 
